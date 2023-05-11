@@ -1,0 +1,5 @@
+Title: Book A, Author: Man A, Number of Pages: 100, Type of Book: Novel
+Title: Book B, Author: Man B, Number of Pages: 200, Type of Book: Fairy Tale
+Title: Book C, Author: Man C, Number of Pages: 300, Type of Book: Detective
+Title: Book D, Author: Man D, Number of Pages: 400, Type of Book: Novel
+Title: Book E, Author: Man E, Number of Pages: 500, Type of Book: Fairy Tale
